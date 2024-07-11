@@ -1,12 +1,12 @@
 {
-"name": "NewAcc",
+"name": "aoivalt",
 "version": "2.1.1",
-"description": "NewAcc has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "aoivalt has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name newacc",
-"stop": "pm2 stop newacc",
-"restart": "pm2 restart newacc"
+"start": "pm2 start start.js --deep-monitoring --attach --name aoivalt",
+"stop": "pm2 stop aoivalt",
+"restart": "pm2 restart aoivalt"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git",
