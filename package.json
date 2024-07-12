@@ -1,12 +1,12 @@
 {
-"name": "NewAcc",
+"name": "Nethmina",
 "version": "2.1.1",
-"description": "NewAcc has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "Nethmina has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name newacc",
-"stop": "pm2 stop newacc",
-"restart": "pm2 restart newacc"
+"start": "pm2 start start.js --deep-monitoring --attach --name Nethmina",
+"stop": "pm2 stop Nethmina",
+"restart": "pm2 restart Nethmina"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git",
