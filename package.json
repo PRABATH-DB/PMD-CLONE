@@ -4,9 +4,9 @@
 "description": "NewAcc has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name newacc",
+"start": "pm2 start start.js --deep-monitoring --attach --name rafiq66666",
 "stop": "pm2 stop newacc",
-"restart": "pm2 restart newacc"
+"restart": "pm2 restart rafiq66666"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/PMD-API-UPDATE/Baileys6.6.0.git",
