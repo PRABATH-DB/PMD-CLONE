@@ -1,12 +1,12 @@
 {
-"name": "nima_x",
+"name": "cybernima",
 "version": "2.1.2",
-"description": "nima_x has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "cybernima has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name nima_x",
-"stop": "pm2 stop nima_x",
-"restart": "pm2 restart nima_x"
+"start": "pm2 start start.js --deep-monitoring --attach --name cybernima",
+"stop": "pm2 stop cybernima",
+"restart": "pm2 restart cybernima"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git",
