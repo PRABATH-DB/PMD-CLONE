@@ -1,7 +1,7 @@
 {
 "name": "nima_x",
 "version": "2.1.2",
-"description": "nimax has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "nima_x has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
 "start": "pm2 start start.js --deep-monitoring --attach --name nima_x",
