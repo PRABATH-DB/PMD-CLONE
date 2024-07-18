@@ -9,7 +9,7 @@
 "restart": "pm2 restart shashika"
 },
 "dependencies": {
-"@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git",
+"@whiskeysockets/baileys": "git+https://github.com/PMD-API-UPDATE/Baileys-6.6.0.git",
 "@adiwajshing/keyed-db": "^0.2.4",
 "wa_set_pkg": "1.0.1",
 "gemini-ai" : "latest",
