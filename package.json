@@ -1,12 +1,12 @@
 {
-"name": "Daazi",
+"name": "SAJJAD HUSSAIN",
 "version": "2.1.2",
-"description": "Daazi has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "SAJJAD HUSSAIN has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
 "start": "pm2 start start.js --deep-monitoring --attach --name Daazi",
-"stop": "pm2 stop Daazi",
-"restart": "pm2 restart Daazi"
+"stop": "pm2 stop SAJJAD HUSSAIN",
+"restart": "pm2 restart SAJJAD HUSSAIN"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/PMD-API-UPDATE/Baileys-6.6.0.git",
