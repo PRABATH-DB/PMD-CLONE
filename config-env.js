@@ -28,4 +28,4 @@ module.exports = {
     BOT_NUMBER:  BOT_NUMBER,
     GITHUB_USERNAME: username,
     GITHUB_AUTH_TOKEN: GITHUB_TOKEN,
-};
+};config-env.js
