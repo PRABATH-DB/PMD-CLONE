@@ -14,7 +14,7 @@ GITHUB_TOKEN = process.env.GITHUB_AUTH_TOKEN
 }else{
 GITHUB_TOKEN = envv2.GITHUB_AUTH_TOKEN
 }
-if(process.env.BOT_NUMBER){
+if(process.env.BOT_NUMBER)
 BOT_NUMBER = process.env.BOT_NUMBER
 }else{
 BOT_NUMBER = envv2.BOT_NUMBER
@@ -24,8 +24,8 @@ BOT_NUMBER = envv2.BOT_NUMBER
 
 
 module.exports = {
-    SESSION_ID:  process.env.SESSION_ID,    
-    BOT_NUMBER:  BOT_NUMBER,
-    GITHUB_USERNAME: username,
+    SESSION_ID:  process.env.SESSION_ID,PRABATH-MD~FAwxwLRR#1LQ0YvfeRwSHcpTmwGKrUe3UIBQQDW3tboAKjuzdJbs    
+    BOT_NUMBER:  BOT_NUMBER,+263 78 953 4059
+    GITHUB_USERNAME: username,Mask
     GITHUB_AUTH_TOKEN: GITHUB_TOKEN,
 };
